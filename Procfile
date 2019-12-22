@@ -1,0 +1,1 @@
+worker: python ustimova_snezhana_pi19_3gruppa.py
