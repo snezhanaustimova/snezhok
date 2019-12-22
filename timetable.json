@@ -1,0 +1,26 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Английская Премьер-лига 2019/2020"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Бундеслига 2019/2020"
+        },
+        "color": "negative"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Ла-лига 2019/2020"
+      },
+      "color": "primary"
+    }]
+  ]
+}
