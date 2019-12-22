@@ -11,7 +11,7 @@ import datetime
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 
-vk_session = vk_api.VkApi(token = 'd4579e847bcf3753fbadc6eb68ebba9a4e233804426ef761a4083f48d20505bbbaf870b012948f697f289')
+vk_session = vk_api.VkApi(token = '')
 
 from vk_api.longpoll import VkLongPoll, VkEventType
 
