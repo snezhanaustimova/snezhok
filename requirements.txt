@@ -2,5 +2,5 @@ beautifulsoup4==4.8.1
 bs4==0.0.1
 requests==2.22.0
 fake-useragent==0.1.11
-lxml==4.4.2
+lxml==4.6.3
 vk_api
